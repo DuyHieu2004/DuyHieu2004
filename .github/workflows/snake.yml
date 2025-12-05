@@ -1,11 +1,14 @@
 name: Generate Snake
 
 on:
-  # Chạy tự động mỗi 12 giờ đêm
   schedule:
-    - cron: "0 0 * * *" 
-  # Cho phép chạy thủ công để test
+    - cron: "0 0 * * *"
   workflow_dispatch:
+
+# --- THÊM ĐOẠN NÀY ĐỂ CẤP QUYỀN GHI ---
+permissions: 
+  contents: write
+# ---------------------------------------
 
 jobs:
   build:
@@ -17,9 +20,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          # Tên user của bạn
           github_user_name: DuyHieu2004
-          # Các file ảnh con rắn sẽ được tạo ra
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark

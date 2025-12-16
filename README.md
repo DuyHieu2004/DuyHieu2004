@@ -82,5 +82,5 @@
 </div>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/DuyHieu2004/count.svg" alt="visitor count" />
+  <img src="https://komarev.com/ghpvc/?username=DuyHieu2004&label=Profile%20Views&color=0e75b6&style=flat" alt="DuyHieu2004" />
 </div>

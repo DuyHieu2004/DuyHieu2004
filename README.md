@@ -44,10 +44,10 @@
 
 <div align="center">
   <a href="https://github.com/DuyHieu2004">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=DuyHieu2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=DuyHieu2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&ver=1" />
   </a>
   <a href="https://github.com/DuyHieu2004">
-    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=DuyHieu2004&theme=tokyonight&hide_border=true&bg_color=00000000" />
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=DuyHieu2004&theme=tokyonight&hide_border=true&bg_color=00000000&ver=1" />
   </a>
 </div>
 

@@ -72,11 +72,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DuyHieu2004&theme=tokyonight&hide_border=true" alt="streak" />
 </div>
 
-<div align="center">
-  <h3>🐍 My Contribution Snake</h3>
-  <img src="https://raw.githubusercontent.com/DuyHieu2004/DuyHieu2004/output/github-contribution-grid-snake.svg" alt="snake"/>
-</div>
-
 ---
 
 ### 🏆 Trophies

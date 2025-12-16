@@ -67,10 +67,6 @@
   <img src="https://raw.githubusercontent.com/DuyHieu2004/DuyHieu2004/output/github-contribution-grid-snake.svg" alt="snake"/>
 </div>
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DuyHieu2004&theme=tokyonight&hide_border=true" alt="streak" />
-</div>
 
 ---
 

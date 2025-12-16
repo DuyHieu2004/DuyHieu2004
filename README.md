@@ -80,3 +80,7 @@
     <img src="https://github-profile-trophies.vercel.app/?username=DuyHieu2004&theme=flat&no-frame=true&column=7&margin-w=15" />
   </a>
 </div>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/DuyHieu2004/count.svg" alt="visitor count" />
+</div>

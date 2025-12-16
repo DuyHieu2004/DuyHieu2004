@@ -40,6 +40,33 @@
   
 </div>
 
+### 📊 GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/DuyHieu2004">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=DuyHieu2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  </a>
+  <a href="https://github.com/DuyHieu2004">
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=DuyHieu2004&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/DuyHieu2004">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuyHieu2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" />
+  </a>
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DuyHieu2004&bg_color=1a1b27&color=79daff&line=bc8cff&point=ffffff&hide_border=true" />
+</div>
+
+<div align="center">
+  <h3>🐍 My Contribution Snake</h3>
+  <img src="https://raw.githubusercontent.com/DuyHieu2004/DuyHieu2004/output/github-contribution-grid-snake.svg" alt="snake"/>
+</div>
+
 ### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DuyHieu2004&theme=tokyonight&hide_border=true" alt="streak" />
